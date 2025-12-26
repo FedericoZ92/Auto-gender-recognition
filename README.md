@@ -97,8 +97,6 @@ The project includes trained models achieving up to 86%+ accuracy on gender clas
 ## Author
 
 **Federico Zanetti**
-- Email: federico.zanetti@studenti.unitn.it
-- Date: March 06, 2017
 
 ## Academic Context
 
